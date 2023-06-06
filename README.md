@@ -1,4 +1,4 @@
-# Social Media App
+# SocioMedia
 
 Welcome to the SociaMedia! This is a Node.js backend server for a social media application that allows users to make friends, share posts, like comments, update profile photos, and much more. Please note that the client part of the application is currently under construction.
 
@@ -57,7 +57,3 @@ The Social Media App offers the following features:
 
 Please note that these features are available through the API endpoints provided by the server. The client part of the application, which will provide a user-friendly interface to interact with these features, is still under construction.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
